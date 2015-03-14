@@ -1,0 +1,22 @@
+윈도우시작-->cmd.exe실행
+
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation. All rights reserved.
+
+C:\Users\Administrator>cd C:\PUBLIC_IT3\01.JAVA_FUND\ch1
+
+C:\PUBLIC_IT3\01.JAVA_FUND\ch1>dir
+ C 드라이브의 볼륨에는 이름이 없습니다.
+ 볼륨 일련 번호: 28FC-485C
+
+ C:\PUBLIC_IT3\01.JAVA_FUND\ch1 디렉터리
+
+2014-08-05  오후 12:19    <DIR>          .
+2014-08-05  오후 12:19    <DIR>          ..
+2014-08-05  오후 12:19                29 HelloWorld.java
+               1개 파일                  29 바이트
+               2개 디렉터리  62,270,722,048 바이트 남음
+
+C:\PUBLIC_IT3\01.JAVA_FUND\ch1>javac HelloWorld.java
+
+C:\PUBLIC_IT3\01.JAVA_FUND\ch1>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
